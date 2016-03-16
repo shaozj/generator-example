@@ -1,2 +1,2 @@
 # generator-example
-an example of generator based on yeoman
+an example of yeoman generator 

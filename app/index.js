@@ -5,3 +5,4 @@ module.exports = generators.Base.extend({  //必须extend自
         console.log('hello world...');
     }
 });
+
