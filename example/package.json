@@ -1,0 +1,23 @@
+{
+	"name": "test",
+	"version": "1.0.0",
+	"description": "test",
+	"main": "index.js",
+	"author": "lanqin",
+	"repository": {
+		"type": "git",
+		"url": ""
+	},
+	"keywords": ["plugin", "def"],
+	"license": "ISC",
+	"readmeFilename": "README.md",
+	"dependencies": {
+
+	},
+	"devDependencies": {
+		"gulp": "~3.8.11",
+		"gulp-less": "~1.2.0",
+		"gulp-sourcemaps": "~1.5.1"
+
+	}
+}
